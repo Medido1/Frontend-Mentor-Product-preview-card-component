@@ -29,8 +29,8 @@ Users should be able to
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Medido1/Frontend-Mentor-Product-preview-card-component)
+- Live Site URL: (https://medido1.github.io/Frontend-Mentor-Product-preview-card-component/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Medido1)
+- Frontend Mentor - [@Medido1](https://www.frontendmentor.io/profile/Medido1)
 
 ## Acknowledgments
 
